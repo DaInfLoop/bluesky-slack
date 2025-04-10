@@ -1,0 +1,17 @@
+{
+  "name": "bskkyunfurl",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@atproto/api": "^0.13.12",
+    "@slack/bolt": "^4.0.0",
+    "dotenv": "^16.4.5",
+    "postgres": "^3.4.4"
+  }
+}
