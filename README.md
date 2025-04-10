@@ -1,4 +1,7 @@
-# bskkyunfurl
+# bluesky-slack
+Bluesky for Slack. Idek what to put here, this was something random I made in `nano` for the fun of it.
+
+Yes, I made this all in nano. Because who needs an IDE?
 
 To install dependencies:
 
